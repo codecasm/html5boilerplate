@@ -1,4 +1,4 @@
-# html5boilerplate
+# html5boilerplate - structure
 - a kick start to HTML 5 with basic structure of tags
 - just a simple structure of the HTML 5, which is according to standards of W3C
 - Use this to start learning and building awesome web pages
